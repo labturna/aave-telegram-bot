@@ -6,7 +6,7 @@ Welcome to the Aave Telegram Bot project! This bot allows users to interact with
 
 To use the Aave Telegram Bot, follow these simple steps:
 
-1. **Install Dependencies**: Make sure you have Node.js installed on your machine. Then, run `npm install` to install all necessary dependencies.
+1. **Install Dependencies**: Make sure you have Node.js installed on your machine. Then, run `npm install telegraf axios ethers` to install all necessary dependencies.
 
 2. **Set Up Your Telegram Bot**: You need to create a new bot on Telegram using BotFather. Obtain your bot token and replace the `telegramToken` variable in the `config.js` file with your token.
 
